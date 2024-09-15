@@ -116,7 +116,7 @@ Some notes:
 1. <a name=tool2></a>[Clerky](https://www.clerky.com/offerings#company-formation) - software to handle the complete set of company formation paperwork online (incorporation, appointing directors and officers, issuing stock, protecting IP, etc.)
 2. <a name=tool4></a>[Stripe Atlas](https://stripe.com/atlas) - like Clerky, handles most of the company formation paperwork, it will also automatically setup a bank account with SVB as well as a Stripe account
 3. <a name=tool1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - will file DE incorporation papers quickly on your behalf for ~$150, including state fees
-4. <a name=tool3></a>[Tax1099](https://www.tax1099.com) - e-file federal tax forms (e.g. tax return, 1099, W2, etc), small fee per form
+4. <a name=tool3></a>[Tax1099](https://www.tax1099.com) and <a name=tool7></a>[1099Fire](https://www.1099fire.com/) - e-file federal tax forms (e.g. tax return, 1099, W2, etc), small fee per form
 5. <a name=tool5></a>[Intuit 1099 service](https://iop.intuit.com/welcome/1099.jsp) - generate and e-file 1099 forms, small fee per form 
 6. <a name=tool6></a>[VirtualPostMail](https://www.virtualpostmail.com/) - virtual mailbox for real mail. Good for nomadic workers and short-term offices. Also offers free registered agent in CA with paid plan
 
